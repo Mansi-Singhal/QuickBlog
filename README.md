@@ -1,5 +1,5 @@
 This is a Next.js project bootstrapped with create-next-app.
-
+To access the QuickBlog - https://quick-blog-roan-nine.vercel.app/
 Getting Started
 First, run the development server:
 
